@@ -12,14 +12,14 @@ export const handler: Handler = async (
   let responseBody: string;
   if (event.path === '/brawlers' && event.pathParameters === null) {
     responseBody = JSON.stringify(brawlers);
-  } else {
-    responseBody = JSON.stringify(
-      'EVENT PATH: ' +
-        event.path +
-        ' EVENT PATH PARAMS: ' +
-        event.pathParameters['brawlerID']
-    );
   }
+
+  responseBody = JSON.stringify(
+    'EVENT PATH: ' +
+      event.path +
+      ' EVENT PATH PARAMS: ' +
+      event.pathParameters['brawlerID']
+  );
 
   const response = {
     statusCode: 200,
