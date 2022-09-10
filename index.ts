@@ -15,7 +15,7 @@ export const handler: Handler = async (
       'Content-Type': 'application/json',
       'Access-Control-Allow-Origin': '*',
     },
-    body: JSON.stringify(brawlers),
+    body: JSON.stringify(event.path + ' ' + event.pathParameters),
   };
   return response;
 };
