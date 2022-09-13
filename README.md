@@ -14,7 +14,7 @@
     <img src="images/logo.webp" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Brawl Stars Unofficial API</h3>
+  <h3 align="center">Brawl Stars Unofficial API</h3>
 
   <p align="center">
     project_description
@@ -22,10 +22,8 @@
     <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api">View Demo</a>
-    ·
-    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Report Bug</a>
-    ·
+    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api">View Demo</a>·
+    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Report Bug</a>·
     <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Request Feature</a>
   </p>
 </div>
@@ -67,13 +65,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
 * [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- GETTING STARTED -->
@@ -114,12 +111,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Feature 3a
+- [ ] /brawlers endpoint
+    - [ ] /brawlers/{brawlerID} endpoint
+- [ ] /events endpoint
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/greg-hosking/brawl-stars-unofficial-api/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,9 +130,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch
+3. Commit your Changes
+4. Push to the Branch 
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -147,6 +143,7 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content Policy.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,17 +155,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Greg Hosking - hoskinggregory@gmail.com
 
 Project Link: [https://github.com/greg-hosking/brawl-stars-unofficial-api](https://github.com/greg-hosking/brawl-stars-unofficial-api)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
