@@ -15,7 +15,7 @@ export const handler: Handler = async (
   if (event.path === '/brawlers') {
     // responseBody = JSON.stringify(brawlers);
     const fetchBrawlStarsUnofficialAPI = async () => {
-      fetch('https://api.brawlstars.com/v1/brawlers')
+      fetch('https://3cv56fz4uc.execute-api.us-east-1.amazonaws.com/brawlers')
         .then((response) => response.json())
         .then((json) => (responseBody = json));
     };
