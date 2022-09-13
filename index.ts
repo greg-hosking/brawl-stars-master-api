@@ -13,13 +13,7 @@ export const handler: Handler = async (
 
   // If the requested path is exactly '/brawlers', return all brawlers.
   if (event.path === '/brawlers') {
-    // responseBody = JSON.stringify(brawlers);
-    const fetchBrawlStarsUnofficialAPI = async () => {
-      fetch('https://3cv56fz4uc.execute-api.us-east-1.amazonaws.com/brawlers')
-        .then((response) => response.json())
-        .then((json) => (responseBody = json));
-    };
-    fetchBrawlStarsUnofficialAPI();
+    responseBody = JSON.stringify(brawlers);
   }
   // If the requested path contains '/brawlers', this means that a specific brawler
   // is being requested by its ID.
