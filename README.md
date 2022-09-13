@@ -17,13 +17,15 @@
   <h3 align="center">Brawl Stars Unofficial API</h3>
 
   <p align="center">
-    project_description
+    An up-to-date unofficial API for Brawl Stars!
     <br />
     <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api">View Demo</a>·
-    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Report Bug</a>·
+    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api">View Demo</a>
+    ·
+    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Report Bug</a>
+    ·
     <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Request Feature</a>
   </p>
 </div>
@@ -62,6 +64,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+There are a couple of main APIs out there for Brawl Stars, including...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
