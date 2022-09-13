@@ -144,7 +144,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br />
-This material is unofficial and is not endorsed by Supercell. For more information see (<a href="https://supercell.com/en/fan-content-policy/">Supercell's Fan Content Policy.</a>)
+This material is unofficial and is not endorsed by Supercell. For more information see <a href="https://supercell.com/en/fan-content-policy/">Supercell's Fan Content Policy.</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
