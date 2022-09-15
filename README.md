@@ -106,7 +106,7 @@ See the [open issues](https://github.com/greg-hosking/brawl-stars-master-api/iss
 
 Greg Hosking - hoskinggregory@gmail.com
 
-Project Link: [https://github.com/greg-hosking/brawl-stars-unofficial-api](https://github.com/greg-hosking/brawl-stars-master-api)
+Project Link: [https://github.com/greg-hosking/brawl-stars-master-api](https://github.com/greg-hosking/brawl-stars-master-api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
