@@ -14,12 +14,9 @@
     <img src="images/logo.webp" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Brawl Stars Unofficial API</h3>
+  <h3 align="center">Brawl Stars Master API</h3>
 
   <p align="center">
-    An API for Brawl Stars with all the data you need!
-    <br />
-    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api">View Demo</a>
@@ -63,9 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-If you are a developer working on a project related to Brawl Stars, you are likely using the <a href="https://developer.brawlstars.com">official Brawl Stars API</a> and the <a href="https://brawlapi.com/">Brawlify API</a>. While I was working on a Brawl Stars companion web app, I noticed that the official API provides limited data and the Brawlify API is not always up-to-date.
-<br />
-With this in mind, I decided to create this unofficial API to build upon the official API and provide more in-depth information about brawlers, events, etc. This is originally designed and intended for personal use, but I am more than open to collaboration and reapproaching the architecture of the API to accomodate more users. 
+...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
