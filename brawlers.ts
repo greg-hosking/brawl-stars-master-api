@@ -70,7 +70,7 @@ export const brawlers = {
       description:
         "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!",
       imageUrl:
-        'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/Shelly.webp',
+        'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/Shelly.webp',
       offenseRating: 0.8,
       defenseRating: 0.6,
       utilityRating: 0.4,
@@ -120,7 +120,7 @@ export const brawlers = {
           description:
             "Shelly's Super shells slow down enemies for 4.5 seconds!",
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/star_powers/Shell_Shock.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/star_powers/Shell_Shock.webp',
         },
         {
           id: 23000135,
@@ -128,7 +128,7 @@ export const brawlers = {
           description:
             'When Shelly falls below 40% health, she instantly heals for 2000 health. Band-Aid recharges in 15 seconds.',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/star_powers/Band-Aid.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/star_powers/Band-Aid.webp',
         },
       ],
       gadgets: [
@@ -137,7 +137,7 @@ export const brawlers = {
           name: 'Fast Forward',
           description: 'Shelly dashes ahead, skipping a few unnecessary steps!',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/gadgets/Fast_Forward.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/gadgets/Fast_Forward.webp',
         },
         {
           id: 23000288,
@@ -145,118 +145,118 @@ export const brawlers = {
           description:
             "On activation, for the next 5 seconds Shelly's main attacks focus fire to a smaller area with an increased range.",
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/gadgets/Clay_Pigeons.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/gadgets/Clay_Pigeons.webp',
         },
       ],
       skins: [
         {
           name: 'Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/Shelly.webp',
           pins: [
             {
               name: 'neutral',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/neutral.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/neutral.webp',
             },
             {
               name: 'happy',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/happy.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/happy.webp',
             },
             {
               name: 'sad',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/sad.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/sad.webp',
             },
             {
               name: 'angry',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/angry.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/angry.webp',
             },
             {
               name: 'gg',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/gg.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/gg.webp',
             },
             {
               name: 'clap',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/clap.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/clap.webp',
             },
             {
               name: 'thanks',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/thanks.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/thanks.webp',
             },
             {
               name: 'phew',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/phew.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/phew.webp',
             },
             {
               name: 'special',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/special.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Shelly/pins/special.webp',
             },
           ],
         },
         {
           name: 'Star Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Star_Shelly/Star_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Star_Shelly/Star_Shelly.webp',
         },
         {
           name: 'Bandita Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Bandita_Shelly/Bandita_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Bandita_Shelly/Bandita_Shelly.webp',
         },
         {
           name: 'Boca Juniors Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Boca_Juniors_Shelly/Boca_Juniors_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Boca_Juniors_Shelly/Boca_Juniors_Shelly.webp',
         },
         {
           name: 'America Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/America_Shelly/America_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/America_Shelly/America_Shelly.webp',
         },
         {
           name: 'U De Chile Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/U_De_Chile_Shelly/U_De_Chile_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/U_De_Chile_Shelly/U_De_Chile_Shelly.webp',
         },
         {
           name: 'PSG Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/PSG_Shelly/PSG_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/PSG_Shelly/PSG_Shelly.webp',
         },
         {
           name: 'Witch Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Witch_Shelly/Witch_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Witch_Shelly/Witch_Shelly.webp',
           pins: [
             {
               name: 'neutral',
               imageUrl:
-                'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Witch_Shelly/pins/neutral.webp',
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Witch_Shelly/pins/neutral.webp',
             },
           ],
         },
         {
           name: 'True Silver Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/True_Silver_Shelly/True_Silver_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/True_Silver_Shelly/True_Silver_Shelly.webp',
         },
         {
           name: 'True Gold Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/True_Gold_Shelly/True_Gold_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/True_Gold_Shelly/True_Gold_Shelly.webp',
         },
         {
           name: 'Princess Shelly',
           imageUrl:
-            'https://brawl-stars-unofficial-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Princess_Shelly/Princess_Shelly.webp',
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Shelly/skins/Princess_Shelly/Princess_Shelly.webp',
         },
       ],
     },
@@ -268,10 +268,11 @@ export const brawlers = {
       trophiesToUnlock: 60,
       description:
         'An unlikely hero that often finds himself in the wrong place at the right time. He’s not one to shy away from a mirror and is simply brimming with confidence!',
-      imageUrl: '',
-      offenseRating: 0, //
-      defenseRating: 0, //
-      utilityRating: 0, //
+      imageUrl:
+        'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/Colt.webp',
+      offenseRating: 1,
+      defenseRating: 0.4,
+      utilityRating: 0.4,
       health: {
         level1: 2800,
         level2: 2940,
@@ -316,14 +317,16 @@ export const brawlers = {
           id: 23000077,
           name: 'Slick Boots',
           description: "Colt's movement speed is increased by 13%.",
-          imageUrl: '',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/star_powers/Slick_Boots.webp',
         },
         {
           id: 23000138,
           name: 'Magnum Special',
           description:
             "Colt's attack range and bullet speed are increased by 11%.",
-          imageUrl: '',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/star_powers/Magnum_Special.webp',
         },
       ],
       gadgets: [
@@ -331,56 +334,145 @@ export const brawlers = {
           id: 23000273,
           name: 'Speedloader',
           description: 'Colt instantly reloads 2 ammo.',
-          imageUrl: '',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/gadgets/Speedloader.webp',
         },
         {
           id: 23000319,
           name: 'Silver Bullet',
           description:
             "Colt's next attack is a powerful shot that deals as much damage as 2 of his regular bullets, while going through obstacles and opponents alike.",
-          imageUrl: '',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/gadgets/Silver_Bullet.webp',
         },
       ],
       skins: [
         {
           name: 'Colt',
-          imageUrl: '',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/Colt.webp',
           pins: [
             {
               name: 'neutral',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/neutral.webp',
             },
             {
               name: 'happy',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/happy.webp',
             },
             {
               name: 'sad',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/sad.webp',
             },
             {
               name: 'angry',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/angry.webp',
             },
             {
               name: 'gg',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/gg.webp',
             },
             {
               name: 'clap',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/clap.webp',
             },
             {
               name: 'thanks',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/thanks.webp',
             },
             {
               name: 'phew',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/phew.webp',
             },
             {
               name: 'special',
-              imageUrl: '',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Colt/pins/special.webp',
+            },
+          ],
+        },
+        {
+          name: 'Rockstar Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Rockstar_Colt/Rockstar_Colt.webp',
+        },
+        {
+          name: 'River Plate Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/River_Plate_Colt/River_Plate_Colt.webp',
+        },
+        {
+          name: 'Cerro Porteño Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Cerro_Porteno_Colt/Cerro_Porteno_Colt.webp',
+        },
+        {
+          name: 'Atl. Nacional Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Atl_Nacional_Colt/Atl_Nacional_Colt.webp',
+        },
+        {
+          name: 'Club America Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Club_America_Colt/Club_America_Colt.webp',
+        },
+        {
+          name: 'Handsome Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Handsome_Colt/',
+        },
+        {
+          name: 'Royal Agent Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Royal_Agent_Colt/Royal_Agent_Colt.webp',
+        },
+        {
+          name: 'Corsair Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Corsair_Colt/Corsair_Colt.webp',
+        },
+        {
+          name: 'Outlaw Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Outlaw_Colt/Outlaw_Colt.webp',
+        },
+        {
+          name: 'True Silver Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/True_Silver_Colt/True_Silver_Colt.webp',
+        },
+        {
+          name: 'True Gold Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/True_Gold_Colt/True_Gold_Colt.webp',
+        },
+        {
+          name: 'Challenger Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Challenger_Colt/Challenger_Colt.webp',
+        },
+        {
+          name: 'Gunslinger Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Gunslinger_Colt/Gunslinger_Colt.webp',
+        },
+        {
+          name: 'Sharktooth Colt',
+          imageUrl:
+            'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Sharktooth_Colt/Sharktooth_Colt.webp',
+          pins: [
+            {
+              name: 'neutral',
+              imageUrl:
+                'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/skins/Sharktooth_Colt/pins/neutral.webp',
             },
           ],
         },
