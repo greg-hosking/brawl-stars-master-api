@@ -267,7 +267,7 @@ export const brawlers = {
       rarity: rarities.trophyRoad,
       trophiesToUnlock: 60,
       description:
-        'An unlikely hero that often finds himself in the wrong place at the right time. He’s not one to shy away from a mirror and is simply brimming with confidence!',
+        "An unlikely hero that often finds himself in the wrong place at the right time. He's not one to shy away from a mirror and is simply brimming with confidence!",
       imageUrl:
         'https://brawl-stars-master-cdn.s3.amazonaws.com/brawlers/Colt/Colt.webp',
       offenseRating: 1,
