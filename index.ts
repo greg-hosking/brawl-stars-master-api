@@ -18,7 +18,7 @@ export const handler: Handler = async (
   if (event.path === '/brawlers') {
     responseBody = JSON.stringify(brawlers);
   } else {
-    responseBody = JSON.stringify(event);
+    responseBody = JSON.stringify(event.path);
   }
   // If the requested path contains '/brawlers', this means that a specific brawler
   // is being requested by its ID.
