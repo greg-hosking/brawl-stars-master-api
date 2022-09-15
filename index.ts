@@ -1,5 +1,5 @@
 import {
-  APIGatewayProxyEvent,
+  APIGatewayProxyEventV2,
   APIGatewayProxyResultV2,
   Handler,
 } from 'aws-lambda';
@@ -7,18 +7,18 @@ import {
 import { brawlers } from './brawlers';
 
 export const handler: Handler = async (
-  event: APIGatewayProxyEvent
+  event: APIGatewayProxyEventV2
 ): Promise<APIGatewayProxyResultV2> => {
   let responseBody: string;
 
   console.log(event);
-  console.log(event.path);
+  console.log(event.rawPath);
 
   // If the requested path is exactly '/brawlers', return all brawlers.
-  if (event.path === '/brawlers') {
+  if (event.rawPath === '/brawlers') {
     responseBody = JSON.stringify(brawlers);
   } else {
-    responseBody = event.path;
+    responseBody = event.rawPath;
   }
   // If the requested path contains '/brawlers', this means that a specific brawler
   // is being requested by its ID.
