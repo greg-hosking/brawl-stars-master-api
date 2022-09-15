@@ -97,9 +97,8 @@ Returns data for the brawler with the specified ID (or 404 error).
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Populate /brawlers endpoint
-    - [ ] Populate each /brawlers/{brawlerID} endpoint
-- [ ] Implement /events endpoint
+- [ ] /brawlers endpoint
+- [ ] /events endpoint
 
 See the [open issues](https://github.com/greg-hosking/brawl-stars-master-api/issues) for a full list of proposed features (and known issues).
 
