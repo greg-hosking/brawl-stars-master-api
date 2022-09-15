@@ -14,12 +14,11 @@
   </a>
 
   <h3 align="center">Brawl Stars Master API</h3>
-
+  
   <p align="center">
+    A custom API built to power Brawl Stars Master!
     <br />
     <br />
-    <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api">View Demo</a>
-    ·
     <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Report Bug</a>
     ·
     <a href="https://github.com/greg-hosking/brawl-stars-unofficial-api/issues">Request Feature</a>
@@ -65,31 +64,10 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Hello, World!
-
-### Prerequisites
-
-Hello, World!
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. 
-2. 
-3. 
-4.
+* AWS API Gateway
+* AWS Lambda
+* AWS S3
+* TypeScript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,8 +77,6 @@ Hello, World!
 ## Usage
 
 Usage.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,35 +90,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] /events endpoint
 
 See the [open issues](https://github.com/greg-hosking/brawl-stars-unofficial-api/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch 
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-<br />
-This material is unofficial and is not endorsed by Supercell. For more information see <a href="https://supercell.com/en/fan-content-policy/">Supercell's Fan Content Policy.</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,9 +116,5 @@ Project Link: [https://github.com/greg-hosking/brawl-stars-unofficial-api](https
 [stars-url]: https://github.com/greg-hosking/brawl-stars-unofficial-api/stargazers
 [issues-shield]: https://img.shields.io/github/issues/greg-hosking/brawl-stars-unofficial-api.svg?style=for-the-badge
 [issues-url]: https://github.com/greg-hosking/brawl-stars-unofficial-api/issues
-[license-shield]: https://img.shields.io/github/license/greg-hosking/brawl-stars-unofficial-api.svg?style=for-the-badge
-[license-url]: https://github.com/greg-hosking/brawl-stars-unofficial-api/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/greg-hosking
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
