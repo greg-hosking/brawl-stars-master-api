@@ -58,7 +58,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-...
+When I first started building <a href="https://github.com/greg-hosking/brawl-stars-master">Brawl Stars Master</a>, I was utilizing the <a href="https://developer.brawlstars.com/#/">official Brawl Stars API</a> and the <a href="https://brawlapi.com/#/">Brawlify API</a>. As I worked with these APIs, I encountered pain points for both: the official API provided limited data, and the Brawlify API was not being maintained and had missing or inaccurate data. 
+
+I reached out to Brawl Stars and Brawlify about making contributions to the API, but neither were open source. Then, I looked into what designing and implementing an API myself might look like. I decided on AWS API Gateway due to my familiarity with AWS from a previous internship. I set up a Lambda function to handle incoming GET requests and an S3 bucket to serve as a CDN. With the core functionality in place, all I have left to do is input the rest of the data and assets to complete my first custom API. 
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +80,9 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Usage.
+```
+GET /brawlers
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
