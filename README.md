@@ -83,6 +83,12 @@ I reached out to Brawl Stars and Brawlify about making contributions to the API,
 ```
 GET /brawlers
 ```
+Returns data for all brawlers.
+
+```
+GET /brawlers/{brawlerID}
+```
+Returns data for the brawler with the specified ID (or 404 error).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
