@@ -16,7 +16,7 @@
   <h3 align="center">Brawl Stars Master API</h3>
   
   <p align="center">
-    A custom API built to power Brawl Stars Master!
+    A custom API built to power <a href="https://github.com/greg-hosking/brawl-stars-master"Brawl Stars Master</a>!
     <br />
     <br />
     <a href="https://github.com/greg-hosking/brawl-stars-master-api/issues">Report Bug</a>
